@@ -55,7 +55,7 @@ via Tomcat Native just by defining a dependency in their pom.xml such as:
 ```
 
 It is possible to package native libraries within Jar files and have them loaded with a little bit of Reflection.
-A very simple, tiny project that does this is native CRC64 implementation packaged for Java: [https://github.com/Karm/CRC64Java](CRC64Java).
+A very simple, tiny project that does this is native CRC64 implementation packaged for Java: [CRC64Java](https://github.com/Karm/CRC64Java).
 A bigger project utilizing the approach is [wildfly-openssl](https://github.com/wildfly/wildfly-openssl).
 
 
